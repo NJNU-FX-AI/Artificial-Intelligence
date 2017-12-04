@@ -63,10 +63,10 @@ void loop(){
                  digitalWrite(7,1);
                  digitalWrite(8,1);
                  digitalWrite(9,0);
-                 delay(1000*0.5);
+                 delay(1000*0.2);
                  digitalWrite(8,0);
                  digitalWrite(9,1);
-                 delay(1000*0.5);
+                 delay(1000*0.2);
              break;
 
              case 'W'://wind
